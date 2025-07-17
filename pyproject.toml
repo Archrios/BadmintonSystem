@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "django>=5.2.4",
+    "django-browser-reload>=1.18.0",
+    "django-cors-headers>=4.7.0",
+    "djangorestframework>=3.16.0",
     "dotenv>=0.9.9",
     "faker>=37.4.0",
     "flask>=3.1.1",
@@ -13,4 +16,5 @@ dependencies = [
     "mysql-connector-python>=9.3.0",
     "mysqlclient>=2.2.7",
     "rich>=14.0.0",
+    "tailwind>=3.1.5b0",
 ]

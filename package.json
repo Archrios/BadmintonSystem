@@ -1,0 +1,26 @@
+{
+  "name": "badmintonsystem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archrios/BadmintonSystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archrios/BadmintonSystem/issues"
+  },
+  "homepage": "https://github.com/Archrios/BadmintonSystem#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^4.1.11"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11"
+  }
+}
